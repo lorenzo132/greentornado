@@ -16,7 +16,8 @@ CLASSIFIERS = [
     'Topic :: Software Development :: Libraries :: Python Modules',
 ]
 
-setup(name='greentornado',
+setup(
+    name='greentornado',
     version=VERSION,
     packages=find_packages(),
     author='Stanislav Vishnevskiy',
